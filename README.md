@@ -14,7 +14,13 @@ intracranial electrode evaluations, comprehensive neuropsychologic testing, and 
 surgical care. 
 
 
-<img src="https://github.com/Shreya-L/Epilepsy-Surgical-Access/blob/master/Epilepsy-Access-Map-Epilepsy-Prev.png">
+<img src="https://github.com/Shreya-L/Epilepsy-Surgical-Access/blob/master/Epilepsy-Access-Map-Epilepsy-Prev.png" width="800">
+
+
+
+
+# Contributions
+
 
 
 
