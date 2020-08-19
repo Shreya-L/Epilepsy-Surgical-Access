@@ -16,7 +16,7 @@ surgical care.
 
 <img src="https://github.com/Shreya-L/Epilepsy-Surgical-Access/blob/master/Epilepsy-Access-Map-Epilepsy-Prev.png" width="800">
 
-
+<img src="https://github.com/Shreya-L/Epilepsy-Surgical-Access/blob/master/Epilepsy-Access-Map-US-Pop.png" width="800">
 
 
 # Contributions
