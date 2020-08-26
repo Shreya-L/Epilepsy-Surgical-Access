@@ -24,12 +24,12 @@ The Area Deprivation Index (ADI) is based on a measure created by the Health Res
 
 This is a map of US county-level ADI scores using data from the 2017 US Census American Community Survey-5. The points on the map represent the location of level 4 epilepsy centers. There is a clear lack of access and Level 4 centers in counties with higher ADI scores (representing areas of increased disadvantage). 
 
-**State-wide map**
+### Level 4 Epilepsy Centers by State-wide ADI 
 
 
 <img src="https://github.com/Shreya-L/Epilepsy-Surgical-Access/blob/master/Epilepsy-Access-Map-ADI-state.png" width="800">
 
-**County-wide map**
+### Level 4 Epilepsy Centers by county-wide ADI
 
 
 <img src="https://github.com/Shreya-L/Epilepsy-Surgical-Access/blob/master/Epilepsy-Access-Map-ADI-county.png" width="800">
